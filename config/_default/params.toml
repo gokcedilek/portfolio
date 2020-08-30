@@ -14,6 +14,7 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
+#theme = "Resumé/Research/General Starter"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -88,8 +89,10 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+#email = "test@example.org"
+#phone = "888 888 88 88"
+email = "gokcedilek99@gmail.org"
+phone = "778 636 09 69"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
