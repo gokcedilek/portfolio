@@ -56,13 +56,13 @@ These tasks are described below:
 
 **Task #2: Model Training** This task consists of 1) determining if we need to (re)train the classification model (see #1 below), 2) encoding text data before training the model (see #2 below), 3) applying [hyperparameter tuning](https://en.wikipedia.org/wiki/Hyperparameter_optimization) with [grid search cross-validation](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) and fitting the data to the resulting model (see #3 below), 4) extracting statistics for training & testing processes (see #4 below), and 5) storing the statistics (see #5 below):
 
-1. kjgksj
-2. slsgks
-3. sglsng
-4. sjksb
-5. jsksbgkjs
+1. describe
+2. describe
+3. describe
+4. describe
+5. describe
 
-**Task #3: Visualization**
+**Task #3: Visualization** describe
 
 **Non-Technical Learnings:** As I mentioned above, I would like to share the reasons why I think resolving the personal dilemma I had with this "dive straight in" way of learning about machine learning (pardon the pun^^) was a good way:
 
