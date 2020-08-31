@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Work Experience"
 subtitle = ""
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Broadcom Inc."
   company_url = "https://www.broadcom.com/"
   location = "Richmond, British Columbia"
-  date_start = "2020-01-05"
+  date_start = "2020-05-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ubc.ca/"
   location = "Vancouver, British Columbia"
   date_start = "2020-01-01"
-  date_end = "2020-01-04"
+  date_end = "2020-04-01"
   description = """
   Responsibilities include:
   
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   company_url = "http://www.birollab.ca/"
   location = "Vancouver, British Columbia"
   date_start = "2019-01-01"
-  date_end = "2019-01-04"
+  date_end = "2019-04-01"
   description = ""
 
 +++
