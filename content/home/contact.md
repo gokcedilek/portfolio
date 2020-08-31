@@ -21,4 +21,3 @@ email_form = 2
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
-

@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: 3rd year Computer Science student at the University of British Columbia
+role: Computer Science student at the University of British Columbia
 
 # Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ""
+# organizations:
+#   - name: University of British Columbia
+#     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 3rd year Computer Science student at the University of British Columbia
+bio: Hi, I'm Gokce! I'm a 3rd year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my school & personal projects, work experience, resume, and any related technical experience.
 
 interests:
   - Machine Learning & Data Science
@@ -30,6 +30,9 @@ education:
     - course: BSc in Computer Science
       institution: University of British Columbia
       year: 2017 - 2022
+    - course: International Baccalaureate High School Diploma Program (IBDP)
+      institution: TED Ankara College Foundation
+      year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,15 +42,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact" # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gokcedilek
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/gokce-dilek/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,14 +62,13 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
-  - Visitors
+# user_groups:
+#   - Researchers
+#   - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Gokce! I'm a 3rd year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my school & personal projects, work experience, resume, and any related technical experience.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!-- My interests and experience include data science, machine learning, web development, microservices architecture, and static security analysis. -->
