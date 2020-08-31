@@ -18,7 +18,7 @@ role: Computer Science student at the University of British Columbia
 #     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, I'm Gokce! I'm a 3rd year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my school & personal projects, work experience, resume, and any related technical experience.
+bio: Hi, I'm Gokce! I'm a 3rd year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my school & personal projects, work experience, resume, and any related technical experience. Feel free to [contact me](https://gokce-dilek.netlify.app/#contact) if you would like to get in touch!
 
 interests:
   - Machine Learning & Data Science
