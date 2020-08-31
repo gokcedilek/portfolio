@@ -47,13 +47,4 @@ date_format = "Jan 2006"
   * Deploying
   """
 
-[[experience]]
-  title = "Software Developer Co-op"
-  company = "Bioinformatics Technology Lab"
-  company_url = "http://www.birollab.ca/"
-  location = "Vancouver, British Columbia"
-  date_start = "Jan 2019"
-  date_end = "Apr 2019"
-  description = """
-
 +++
