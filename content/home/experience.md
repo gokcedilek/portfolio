@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Software Engineer Co-op"
+  company = "Broadcom Inc."
+  company_url = "https://www.broadcom.com/"
+  location = "Richmond, British Columbia"
+  date_start = "May 2020"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +33,28 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Teaching Assistant"
+  company = "University of British Columbia"
+  company_url = "https://www.ubc.ca/"
+  location = "Vancouver, British Columbia"
+  date_start = "Jan 2020"
+  date_end = "Apr 2020"
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+
+[[experience]]
+  title = "Software Developer Co-op"
+  company = "Bioinformatics Technology Lab"
+  company_url = "http://www.birollab.ca/"
+  location = "Vancouver, British Columbia"
+  <!-- date_start = "2016-01-01" -->
+  date_start = "Jan 2019"
+  date_end = "Apr 2019"
+  description = """
 
 +++
