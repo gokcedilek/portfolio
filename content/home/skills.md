@@ -16,13 +16,20 @@ subtitle = ""
 
 
 [[feature]]
-  name = "JavaScript"
+  name = "Languages & Frameworks"
+  description = "Python, JavaScript, TypeScript, Java, C++/C, R, Bash, SQL, Node.js, React.js"
 
 [[feature]]
-  name = "TypeScript"
+  name = "Tools & Technologies"
+  description = "Git, Docker, Kubernetes, Google Cloud, Skaffold, Heroku"
 
 [[feature]]
-  name = "Python"
+  name = "General"
+  description = "Data Structures, Relational Databases, Networking (basics)"
+
+[[feature]]
+  name = "Other"
+  description = "Linux, Yocto Project, Embedded Programming"
 
 # Uncomment to use emoji icons.
 # [[feature]]
