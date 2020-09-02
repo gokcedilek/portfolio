@@ -29,7 +29,10 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: University of British Columbia
-      year: 2017 - 2022
+      year: May 2019 - May 2022
+    - course: BASc in Engineering Physics (transferred to BSc in CS during second year)
+      institution: University of British Columbia
+      year: Sept 2017 - Apr 2019
     - course: International Baccalaureate High School Diploma Program (IBDP)
       institution: TED Ankara College Foundation
       year: 2013 - 2017

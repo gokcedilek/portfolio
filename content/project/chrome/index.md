@@ -1,6 +1,6 @@
 ---
 title: Chrome Extensions
-summary: My first project!
+summary: Quick & easy
 tags:
   - personal
 date: "2016-04-27T00:00:00Z"
@@ -31,7 +31,7 @@ image:
 
 Timeline: Jul 2020
 
-Here are some quick & small (not so quick while working on it:) Google Chrome extensions I worked on - I wanted to explore developing extensions due to several reasons:
+Here are some quick & easy (not so quick & easy while working on it:) Google Chrome extensions I worked on - I wanted to explore developing extensions due to several reasons:
 
 - My general interest towards web development
 - My curiosity about how easy/hard it would be to get started with developing extensions

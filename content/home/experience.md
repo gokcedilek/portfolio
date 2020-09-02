@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2020-01-01"
   date_end = "2020-04-01"
   description = """
-    Here's where the description goes!
+    Held office hours, and assisted students in computer labs for [CPSC 221](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221).
   """
 
 [[experience]]

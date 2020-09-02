@@ -1,6 +1,6 @@
 ---
 title: Flood Fill Algorithm
-summary: My first project!
+summary: Algorithmic art!
 tags:
   - school
 date: "2016-04-27T00:00:00Z"

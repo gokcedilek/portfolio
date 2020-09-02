@@ -1,6 +1,6 @@
 ---
-title: 4 month Co-op at [Bioinformatics Technology Lab](http://www.birollab.ca/)
-summary: My first internship!
+title: 4 month Co-op at the Bioinformatics Technology Lab
+summary: My first internship
 tags:
   - coop
 date: "2016-04-27T00:00:00Z"

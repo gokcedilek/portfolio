@@ -1,6 +1,6 @@
 ---
 title: Microservices Web Application
-summary: My first project!
+summary: My first (large-scale) personal project!
 tags:
   - personal
 date: "2016-04-27T00:00:00Z"

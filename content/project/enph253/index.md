@@ -1,6 +1,6 @@
 ---
 title: Programming an Autonomous Robot!
-summary: My first project!
+summary: Summer robot competition!
 tags:
   - school
 date: "2016-04-27T00:00:00Z"

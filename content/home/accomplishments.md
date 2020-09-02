@@ -1,4 +1,4 @@
-+++
+<!-- +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
@@ -48,4 +48,4 @@ date_format = "Jan 2006"
   date_end = "2017-12-21"
   description = ""
 
-+++
++++ -->

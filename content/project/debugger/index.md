@@ -1,6 +1,6 @@
 ---
 title: y86 Debugger
-summary: My first project!
+summary: Debugging a debugger!
 tags:
   - school
 date: "2016-04-27T00:00:00Z"

@@ -1,8 +1,8 @@
 ---
 title: Financial Literacy Game
-summary: My first project!
+summary: cmd-f hackathon project
 tags:
-  - personal
+  - other
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

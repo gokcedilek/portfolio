@@ -1,4 +1,4 @@
-+++
+<!-- +++
 
 # A Recent Publications section created with the Pages widget.
 
@@ -95,6 +95,6 @@ css_style = ""
 css_class = ""
 +++ -->
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% /alert %}} -->

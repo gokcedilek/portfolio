@@ -1,6 +1,6 @@
 ---
 title: Chair Factory
-summary: My first project!
+summary: Introduction to relational databases
 tags:
   - school
 date: "2016-04-27T00:00:00Z"

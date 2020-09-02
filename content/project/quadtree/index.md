@@ -1,6 +1,6 @@
 ---
 title: Quadtree for Image Compression
-summary: My first project!
+summary: Algorithmic art!
 tags:
   - school
 date: "2016-04-27T00:00:00Z"
