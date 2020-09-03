@@ -31,7 +31,7 @@ image:
 
 Timeline: May - Jun 2020
 
-**Description:** This project is a microservices-based full-stack web application for people to post and join group events for volunteering / fun / etc. purposes. Currently, the main functionalities of the app are creating an account, creating events, signing up for events, cancelling the signups for events, sending confirmation emails that ask for user input to confirm signups and cancellations, using Google Maps for locating the events.
+**Description:** This project is a microservices-based full-stack web application for people to post and join group events for volunteering purposes. Currently, the main functionalities of the app are creating an account, creating events, signing up for events, cancelling the signups for events, sending confirmation emails that ask for user input to confirm signups and cancellations, using Google Maps for locating the events.
 
 **Inspiration:** I had attended a hackathon organized by ["Girls in Tech Vancouver"](https://vancouver.girlsintech.org/) in May 2019, called "Hacking for Humanity". In the hackathon, we needed to come up with a product with an environmental cause. One idea we discussed but didn't implement was the idea of making a website where people can plan environmental events, such as tree-planting, garbage collection, etc., that other people could join. Later on, while brainstorming one day, I thought I could go back to this idea in the context of learning microservices, since it could easily involve multiple independent functionalities, and the need to communicate information between them.
 

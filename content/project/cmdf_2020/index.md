@@ -31,7 +31,7 @@ image:
 
 Timeline: Mar 2020
 
-I attended [cmd-f](https://cmd-f.nwplus.io/), Vancouver's all female hackathon, on March 7 - 8, 2020, with 4 amazing friends! At the hackathon, I learned a tremendous amount about using Google Cloud. We were also delighted to win the "MLH Best use of Google Cloud" prize at the hackathon. Together, we developed a financial literacy web app game for children to teach them basic financial literacy concepts.
+I attended [cmd-f](https://cmd-f.nwplus.io/), Vancouver's all female hackathon, on March 7 - 8, 2020, with 4 amazing friends! At the hackathon, I enjoyed learning about using Google Cloud. We were also delighted to win the "MLH Best use of Google Cloud" prize at the hackathon. Together, we developed a financial literacy web app game for children to teach them basic financial literacy concepts.
 
 I worked on creating a serverless backend for our application. With one other friend, we wrote a REST API using [Google Cloud Functions](https://cloud.google.com/functions/docs) whose endpoints were configured using the [Google Cloud Endpoints service](https://cloud.google.com/endpoints/docs/openapi/get-started-cloud-functions#endpoints_configure). Our API communicated between a non-relational database created on [Google Datastore](https://cloud.google.com/datastore/docs), and the React frontend of our application.
 

@@ -31,7 +31,7 @@ image:
 
 Timeline: Jan - Apr 2019
 
-I had a wonderful first co-op experience working 4 months at the [Bioinformatics Technology Lab](http://www.birollab.ca/). The prominent tools and skills I used during my co-op are the Linux (CentOS) operating system and the command-line, scripting, data pipelining, benchmarking, data visualization, multithreading, and the programming languages C++, Python, R, and Bash - along with learning (and sometimes remembering from high school:) some very interesting biology, and getting help from the amazing people at the lab!
+I had a wonderful first co-op experience working 4 months at the [Bioinformatics Technology Lab](http://www.birollab.ca/). The prominent tools and skills I used during my co-op are the Linux (CentOS) operating system and the command-line, scripting, data pipelining, benchmarking, data visualization, multithreading, and the programming languages C++, Python, R, and Bash - along with learning (and sometimes remembering from high school:) some very interesting biology!
 
 Confession: I wasn't studying Computer Science when I had this co-op experience, and I enjoyed software development at this co-op very much that it was one of the reasons (along with [a course I took](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=221)) why I decided to transfer to Computer Science from Engineering Physics.
 
