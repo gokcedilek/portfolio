@@ -61,14 +61,14 @@ Disk Partitioning & Partition Resizing
 
 TCP Performance Testing
 
-- Used iPerf (https://iperf.fr/), and DPDK (https://www.dpdk.org/) for TCP performance testing between two servers for a network interface card (NIC). iPerf uses a kernel driver, whereas DPDK uses a user-space driver (with which TCP packet processing can bypass the kernel).
+- Used [iPerf](https://iperf.fr/), and [DPDK](https://www.dpdk.org/) for TCP performance testing between two servers for a network interface card (NIC). iPerf uses a kernel driver, whereas DPDK uses a user-space driver (with which TCP packet processing can bypass the kernel).
 - Created the setup consisting of two Linux servers for the test, installed various Linux distributions on different hard drives on the same server, and set up the network connectivity between the servers.
 
 Recompiling & Cross-compiling the Linux kernel
 
-- Explored the following ways of rebuilding the Linux kernel: via the make build tool (https://en.wikipedia.org/wiki/Make_(software)#:~:text=In%20software%20development%2C%20Make%20is,to%20derive%20the%20target%20program.), and via installing the kernel as a debian package (with which I also got to learn a bit about building debian packages).
+- Explored the following ways of rebuilding the Linux kernel: via the [make build tool](<https://en.wikipedia.org/wiki/Make_(software)#:~:text=In%20software%20development%2C%20Make%20is,to%20derive%20the%20target%20program.>), and via installing the kernel as a debian package (with which I also got to learn a bit about building debian packages).
 - I also learned about cross-compiling the Linux kernel to run on a different platform (ARM64) than it was built (x86).
 
 Adding GRUB utilities to Yocto rootfs
 
-- This task was probably my favourite task so far, and it was about adding and enabling the use of the GRUB bootloader (https://en.wikipedia.org/wiki/GNU_GRUB) on the Yocto rootfs on the Stingray eMMC disk (mentioned above). After installing GRUB, I had to figure out how to create GRUB menu entries based on the ESP (https://en.wikipedia.org/wiki/EFI_system_partition) (EFI system partition, or the boot partition) of the eMMC disk we were using. I got to learn about how various grub configuration files work together. This task also felt open-ended & creative for me, because I got to explore various approaches as to how to modify the grub-related files based on discussions with my supervisor, and see different ways of achieving similar outcomes that work for our needs. So far, I devised two different pipelines (and wrote scripts for them) to modify the files as needed to work for our needs.
+- This task was probably my favourite task so far, and it was about adding and enabling the use of the [GRUB bootloader](https://en.wikipedia.org/wiki/GNU_GRUB) on the Yocto rootfs on the Stingray eMMC disk (mentioned above). After installing GRUB, I had to figure out how to create GRUB menu entries based on the [ESP](https://en.wikipedia.org/wiki/EFI_system_partition) (EFI system partition, or the boot partition) of the eMMC disk we were using. I got to learn about how various grub configuration files work together. This task also felt open-ended & creative for me, because I got to explore various approaches as to how to modify the grub-related files based on discussions with my supervisor, and see different ways of achieving similar outcomes that work for our needs. So far, I devised two different pipelines (and wrote scripts for them) to modify the files as needed to work for our needs.
