@@ -38,6 +38,10 @@ subtitle = ""
     tag = "coop"
 
   [[content.filter_button]]
+    name = "Research"
+    tag = "research"
+
+  [[content.filter_button]]
     name = "Other"
     tag = "other"
 
