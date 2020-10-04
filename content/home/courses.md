@@ -26,7 +26,6 @@ _Will be completed by May, 2021:_
 
 - [ ] [Software Engineering](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=310)
 - [ ] [Machine Learning](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=340)
-- [ ] [Internet Computing](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=317)
 - [ ] [Computer Graphics](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=314)
 - [ ] [Functional & Logic Programming](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=312)
 

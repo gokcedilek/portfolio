@@ -1,8 +1,8 @@
 ---
-title: Static Security Analysis for Microservices
-summary: Microservices security research
+title: When2meet But Better!
+summary: UBC Launch Pad group project
 tags:
-  - research
+  - personal
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -29,6 +29,6 @@ image:
 # slides: example
 ---
 
-Timeline: Sep 2020 - present
+Timeline: Oct 2020 - present
 
-Will be updated soon!
+Please check back soon!

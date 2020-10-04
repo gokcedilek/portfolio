@@ -17,19 +17,20 @@ subtitle = ""
 
 [[feature]]
   name = "Languages & Frameworks"
-  description = "Python, JavaScript, TypeScript, Java, C++/C, R, Bash, SQL, Node.js, React.js"
+  description = "Python, JavaScript, TypeScript, Java, C++/C, R, Bash, SQL, Node.js, React.js, Next.js, Flask"
 
 [[feature]]
   name = "Tools & Technologies"
-  description = "Git, Docker, Kubernetes, Google Cloud, Skaffold, Heroku"
+  description = "Git, Docker, Kubernetes, GCP, Skaffold, Firebase"
+  # jenkins?
 
-[[feature]]
-  name = "General"
-  description = "Data Structures, Relational Databases, Networking (basics)"
+# [[feature]]
+#  name = "General"
+#  description = "Data Structures, Relational Databases, Networking (basics)"
 
-[[feature]]
-  name = "Other"
-  description = "Linux, Yocto Project, Embedded Programming"
+# [[feature]]
+#  name = "Other"
+#  description = "Linux, Yocto Project, Embedded Programming"
 
 # Uncomment to use emoji icons.
 # [[feature]]

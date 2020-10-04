@@ -22,8 +22,7 @@ role: Computer Science student at the University of British Columbia
 
 interests:
   - Machine Learning & Data Science
-  - Microservices
-  - Back-end Web Development
+  - Backend Web Development & Microservices
 
 education:
   courses:
