@@ -1,6 +1,6 @@
 ---
-title: Colab Lab!
-summary: My dream project; this idea has been with me for long!
+title: CoLab!
+summary: My dream project idea & awesome people to work with!
 tags:
   - personal
 date: "2016-04-27T00:00:00Z"

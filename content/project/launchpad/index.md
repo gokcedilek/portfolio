@@ -1,5 +1,5 @@
 ---
-title: When2meet But Better!
+title: When3meet (When2meet But Better!:)
 summary: UBC Launch Pad group project
 tags:
   - personal

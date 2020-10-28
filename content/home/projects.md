@@ -26,7 +26,7 @@ subtitle = ""
   #  tag = "*"
 
   [[content.filter_button]]
-    name = "School"
+    name = "Class"
     tag = "school"
 
   [[content.filter_button]]

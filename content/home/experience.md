@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Software Engineer Co-op"
+  title = "Software Engineer Intern"
   company = "Broadcom Inc."
   company_url = "https://www.broadcom.com/"
   location = "Richmond, British Columbia"
@@ -40,18 +40,18 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Teaching Assistant"
+  title = "Data Structures & Algorithms Teaching Assistant"
   company = "University of British Columbia"
   company_url = "https://www.ubc.ca/"
   location = "Vancouver, British Columbia"
   date_start = "2020-01-01"
   date_end = "2020-04-01"
   description = """
-    Held office hours, and assisted students in computer labs for a Data Structures & Algorithms course.
+    Held office hours, and assisted students in computer labs with course concepts and projects.
   """
 
 [[experience]]
-  title = "Software Developer Co-op"
+  title = "Software Developer Intern"
   company = "Bioinformatics Technology Lab"
   company_url = "http://www.birollab.ca/"
   location = "Vancouver, British Columbia"
