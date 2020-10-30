@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = """
-    See "Co-op" section under "Projects" for more details!
+    See "Internships" section under "Projects" for more details!
   """
 
 [[experience]]
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2019-04-01"
   description = """
-    See "Co-op" section under "Projects" for more details!
+    See "Internships" section under "Projects" for more details!
   """
 
 +++

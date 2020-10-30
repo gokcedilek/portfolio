@@ -34,7 +34,7 @@ subtitle = ""
     tag = "personal"
 
   [[content.filter_button]]
-    name = "Co-op"
+    name = "Internships"
     tag = "coop"
 
 [design]

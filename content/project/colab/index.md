@@ -31,4 +31,4 @@ image:
 
 Timeline: Oct 2020 - present
 
-I will update this soon!
+Please check back soon!

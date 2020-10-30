@@ -1,6 +1,6 @@
 ---
-title: 4 month Co-op at the Bioinformatics Technology Lab
-summary: My first internship
+title: Bioinformatics Technology Lab
+summary: 1st internship
 tags:
   - coop
 date: "2016-04-27T00:00:00Z"
