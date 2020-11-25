@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Work Experience"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,10 +17,11 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "UBC Launch Pad (Software Engineering Design Team) member"
-  company = "University of British Columbia"
-  company_url = "https://www.ubc.ca/"
+  title = "UBC Launch Pad Design Team member"
+  company = "UBC Launch Pad"
+  company_url = "https://ubclaunchpad.com/"
   location = "Vancouver, British Columbia"
   date_start = "2020-09-01"
   date_end = ""
@@ -29,12 +30,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Software Engineer Intern"
+  title = "Software Engineering Intern"
   company = "Broadcom Inc."
   company_url = "https://www.broadcom.com/"
   location = "Richmond, British Columbia"
   date_start = "2020-05-01"
-  date_end = ""
+  date_end = "2020-12-01"
   description = """
     See "Internships" section under "Projects" for more details!
   """
@@ -51,7 +52,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Software Developer Intern"
+  title = "Software Development Intern"
   company = "Bioinformatics Technology Lab"
   company_url = "http://www.birollab.ca/"
   location = "Vancouver, British Columbia"

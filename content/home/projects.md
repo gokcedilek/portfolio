@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Class"
-    tag = "school"
+    tag = "class"
 
   [[content.filter_button]]
     name = "Personal"
@@ -35,7 +35,11 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Internships"
-    tag = "coop"
+    tag = "work"
+
+  [[content.filter_button]]
+    name = "Hackathons/Competitions"
+    tag = "free"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

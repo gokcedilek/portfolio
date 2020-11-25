@@ -17,12 +17,16 @@ subtitle = ""
 
 [[feature]]
   name = "Languages & Frameworks"
-  description = "Python, TypeScript, JavaScript, C++, Java, Go, R, SQL, Bash, Node.js, React.js, Next.js, Flask"
+  description = "Python, Go, TypeScript, JavaScript, C++, Java, R, SQL, Bash, Node.js, React.js, Next.js, Flask"
 
 [[feature]]
   name = "Tools & Technologies"
-  description = "Git, Docker, Kubernetes, Google Cloud, Skaffold, Firebase"
+  description = "Google Cloud, Microsoft Azure, Docker, Kubernetes, Skaffold, Kafka, Istio, Git, Firebase"
   # jenkins?
+
+[[feature]]
+  name = "Other"
+  description = "Agile development, project management, teamwork, collaboration"
 
 # [[feature]]
 #  name = "General"

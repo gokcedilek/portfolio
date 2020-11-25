@@ -2,7 +2,7 @@
 title: Broadcom
 summary: 2nd internship
 tags:
-  - coop
+  - work
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -67,7 +67,7 @@ I've been working on a variety of interesting tasks during my co-op term at Broa
 
 - Bootloaders
   - Designed and implemented a procedure to add the GRUB bootloader to Stingray SoC, integrated GRUB-related changes with the existing boot procedure
-    - In addition to the existing UEFI shell, added support for the GRUB [GRUB](https://en.wikipedia.org/wiki/GNU_GRUB) bootloader as a UEFI application
+    - In addition to the existing UEFI shell, added support for the [GRUB](https://en.wikipedia.org/wiki/GNU_GRUB) bootloader as a UEFI application
     - Explored various methods for integrating GRUB with the Yocto filesystem the best way possible
     - Implemented and added a modular pipeline to perform and maintain GRUB-related changes to an existing script which updates the Yocto filesystem/kernel images
       - Created GRUB menu & submenu entries in an easy-to-navigate way for all ext4 filesystems installed on the eMMC, with kernel and DTB choices, mimicking the behavior of GRUB on Linux systems such as Ubuntu

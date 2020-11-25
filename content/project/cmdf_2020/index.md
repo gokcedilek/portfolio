@@ -2,7 +2,7 @@
 title: Financial Literacy Game
 summary: cmd-f hackathon project
 tags:
-  - personal
+  - free
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
