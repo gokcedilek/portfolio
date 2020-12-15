@@ -33,9 +33,9 @@ Timeline: Jan - Apr 2019
 
 I had a wonderful first co-op experience working 4 months at the [Bioinformatics Technology Lab](http://www.birollab.ca/). The prominent tools and skills I used during my co-op are the Linux (CentOS) operating system and the command-line, scripting, data pipelining, benchmarking, data visualization, multithreading, and the programming languages C++, Python, R, and Bash - along with learning (and sometimes remembering from high school:) some very interesting biology!
 
-Confession: I wasn't studying Computer Science when I had this co-op experience, and I enjoyed software development at this co-op very much that it was one of the reasons (along with [a course I took](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=221)) why I decided to transfer to Computer Science from Engineering Physics.
+Confession: I wasn't studying in Computer Science when I started this internship, and I enjoyed software development at this internship very much that it was one of the reasons (along with [a course I took](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=221)) why I decided to transfer to Computer Science from Engineering Physics.
 
-I worked on two different projects during my co-op, both of which are described below.
+I worked on two different projects during my time at BTL, both of which are described below.
 
 **Project #1:** _Sequence Homology - Antimicrobial Peptide Discovery_
 
@@ -43,6 +43,6 @@ In this project, I followed a procedure/data pipeline for antimicrobial peptide 
 
 **Project #2:** _Performance Improvement of a Bioinformatics Software Tool_
 
-In this project, I worked on improving the runtime and memory usage of a bioinformatics software program developed at the lab I worked at. As part of this task, I re-implemented the Python code in C++, modularized the code, made some logic changes in the code without changing the functionality of the program, benchmarked the code using various data structure implementations, performed [code profiling](https://github.com/gperftools/gperftools), wrote a multi-threaded version of the program, and wrote Bash and Python scripts to test the program. For the human chromosomes, which is the largest dataset the program runs on, the runtime improvement was 4.5x, and the memory usage improvement was 1.4x.
+In this project, I worked on improving the runtime and memory usage of a bioinformatics software program developed at the lab I worked at. As part of this task, I re-implemented the Python code in C++, modularized the code, made some logic changes in the code without changing the functionality of the program, benchmarked the code using various data structure implementations, performed [code profiling](https://github.com/gperftools/gperftools), wrote a multi-threaded version of the program, and wrote Bash and Python scripts to test the program. For the human chromosomes, which was the largest dataset the program ran on, the runtime improvement was 4.5x, and the memory usage improvement was 1.4x.
 
 You can take a look at the repository which includes some of the highlight pieces of my work at BTL [here](https://github.com/gokcedilek/BCGSC---BTL).
