@@ -19,7 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Developer at UBC Launch Pad"
+  title = "Research Assistant"
+  company = "ReSeSS Research Lab"
+  company_url = "https://www.ece.ubc.ca/~mjulia/ReSeSS.html"
+  location = "Vancouver, British Columbia"
+  date_start = "2020-12-01"
+  date_end = ""
+  description = "Learn more about my project [here](https://gokce-dilek.netlify.app/project/resess/)!"
+
+[[experience]]
+  title = "Software Developer"
   company = "UBC Launch Pad"
   company_url = "https://ubclaunchpad.com/"
   location = "Vancouver, British Columbia"

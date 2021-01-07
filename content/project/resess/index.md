@@ -1,8 +1,8 @@
 ---
-title: CoLab!
-summary: My dream project idea & awesome people to work with!
+title: Static Analysis for Microservices
+summary: Microservices research
 tags:
-  - personal
+  - work
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -29,6 +29,8 @@ image:
 # slides: example
 ---
 
-Timeline: Nov 2020 - present
+Timeline: Dec 2020 - present
 
-Please check back soon!
+I am currently working on developing a tool to create static call graphs for microservices-based applications using [OpenAPI](https://www.openapis.org/) & [Swagger](https://swagger.io/). The aim of this project is to be able to make the call graph generation procedure framework-agnostic through the use of the common OpenAPI specifications across different languages and microservices frameworks.
+
+I will add more updates soon!

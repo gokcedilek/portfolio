@@ -34,11 +34,11 @@ subtitle = ""
     tag = "personal"
 
   [[content.filter_button]]
-    name = "Internships"
+    name = "Internships / Research"
     tag = "work"
 
   [[content.filter_button]]
-    name = "Hackathons/Competitions"
+    name = "Hackathons / Competitions"
     tag = "free"
 
 [design]
