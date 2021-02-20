@@ -17,7 +17,7 @@ subtitle = ""
 
 [[feature]]
   name = "Languages & Frameworks"
-  description = "Python, Go, TypeScript, JavaScript, Java, C++/C, R, SQL, Bash, x86/Y86 assembly, Node.js, React.js, Next.js, Spring Boot"
+  description = "TypeScript, JavaScript, Java, Python, Go, C++/C, Haskell, R, SQL, Bash, x86/Y86 assembly, Node.js, React.js, Next.js, Spring Boot"
 
 [[feature]]
   name = "Tools & Technologies"
