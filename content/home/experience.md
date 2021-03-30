@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "ReSeSS Research Lab"
   company_url = "https://www.ece.ubc.ca/~mjulia/ReSeSS.html"
   location = "Vancouver, British Columbia"
-  date_start = "2020-12-01"
+  date_start = "2021-02-01"
   date_end = ""
   description = "Learn more about my project [here](https://gokce-dilek.netlify.app/project/resess/)!"
 

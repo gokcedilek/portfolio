@@ -29,6 +29,6 @@ image:
 # slides: example
 ---
 
-Timeline: Nov 2020 - present
+# Timeline: Nov 2020 - present
 
 Please check back soon!

@@ -31,7 +31,7 @@ image:
 
 Timeline: May - Dec 2020
 
-I've been working on a variety of interesting tasks during my co-op term at Broadcom. The areas I mainly got to improve myself are as follows:
+I worked on a variety of interesting tasks during my co-op term at Broadcom. The areas I mainly got to improve myself in are as follows:
 
 - Computer Networking
 
@@ -66,6 +66,7 @@ I've been working on a variety of interesting tasks during my co-op term at Broa
     - Implemented detailed error handling
 
 - Bootloaders
+
   - Designed and implemented a procedure to add the GRUB bootloader to Stingray SoC, integrated GRUB-related changes with the existing boot procedure
     - In addition to the existing UEFI shell, added support for the [GRUB](https://en.wikipedia.org/wiki/GNU_GRUB) bootloader as a UEFI application
     - Explored various methods for integrating GRUB with the Yocto filesystem the best way possible

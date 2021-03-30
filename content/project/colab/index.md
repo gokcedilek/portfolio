@@ -1,6 +1,6 @@
 ---
-title: CoLab!
-summary: My dream project idea & awesome people to work with!
+title: CoLab
+summary: Find projects and people to collaborate with!
 tags:
   - personal
 date: "2016-04-27T00:00:00Z"
@@ -29,6 +29,7 @@ image:
 # slides: example
 ---
 
-Timeline: Nov 2020 - present
+Timeline: Dec 2020 - present
 
-Please check back soon!
+We will be continuing with this project in May, 2021, and I will post updates then!
+For now, our exciting project can be found [here](https://github.com/labcolab/colab).

@@ -29,8 +29,8 @@ image:
 # slides: example
 ---
 
-Timeline: Dec 2020 - present
+Timeline: Feb 2021 - present
 
-I am currently working on developing a tool to create static call graphs for microservices-based applications using [OpenAPI](https://www.openapis.org/) & [Swagger](https://swagger.io/). The aim of this project is to be able to make the call graph generation procedure framework-agnostic through the use of the common OpenAPI specifications across different languages and microservices frameworks.
+I am currently working on researching methods to create static call graphs for microservices-based applications using [OpenAPI](https://www.openapis.org/) & [Swagger](https://swagger.io/) toolset. The aim of this project is to be able to make the call graph generation procedure framework-agnostic through the use of the common OpenAPI specifications across different Java microservices frameworks.
 
 I will add more updates soon!

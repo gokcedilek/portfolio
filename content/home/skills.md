@@ -17,11 +17,11 @@ subtitle = ""
 
 [[feature]]
   name = "Languages & Frameworks"
-  description = "TypeScript, JavaScript, Java, Python, Go, C++/C, Haskell, R, SQL, Bash, x86/Y86 assembly, Node.js, React.js, Next.js, Spring Boot"
+  description = "TypeScript, JavaScript, Python, Java, Go, C++/C, Haskell, Prolog, R, SQL, Bash, Node.js, React.js, Next.js, Spring Boot"
 
 [[feature]]
   name = "Tools & Technologies"
-  description = "Google Cloud, Azure, Docker, Kubernetes, Skaffold, Kafka, Istio, Linux, Git, GitHub Actions, Firebase"
+  description = "AWS, Google Cloud, Firebase, Docker, Kubernetes, Skaffold, Kafka, Istio, Linux, Git, GitHub Actions, Swagger"
 
 [[feature]]
   name = "Other"

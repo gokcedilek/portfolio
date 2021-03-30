@@ -44,4 +44,8 @@ The other entity deals with the command-line parsing and processing of commands.
 
 Code to our project is [here](https://github.com/gokcedilek/DictionaryClient).
 
-**Assignment #2:** _DNS stuff_
+**Assignment #2:** _Domain Name Resolver / DNS Client_
+
+We implemented a command-line DNS client that resolves domain names (ex: `www.cs.ubc.ca`) into IP addresses (ex: `142.103.6.5`) by iteratively querying different nameservers.
+
+Our project and instructions to run it are [here](https://github.com/gokcedilek/DNSResolver).
