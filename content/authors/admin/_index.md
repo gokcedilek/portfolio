@@ -31,7 +31,7 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: University of British Columbia
-      year: May 2019 - May 2022
+      year: May 2019 - Dec 2022
     - course: BASc in Engineering Physics (transferred to BSc in CS during second year)
       institution: University of British Columbia
       year: Sept 2017 - Apr 2019

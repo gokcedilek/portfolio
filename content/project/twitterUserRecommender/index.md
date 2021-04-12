@@ -135,7 +135,7 @@ Last but not least, after the validate the request, we [send it over to the API]
         "id": 1298997255609790464,
         "id_str": "1298997255609790464",
         "name": "Avery ❦",
-        "screen_name": "JE0NGHOUL",
+        "screen_name": "JE0NGHOUL", // what we want
       }
       ...}
     ]

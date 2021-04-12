@@ -21,11 +21,8 @@ subtitle:
 - [x] [Algorithm Design & Analysis](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=320)
 - [x] [Operating Systems](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=313)
 - [x] [Relational Databases](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=304)
+- [x] [Software Engineering](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=310)
+- [x] [Internet Computing](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=317)
+- [x] [Functional & Logic Programming](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=312)
 
-_Will be completed by May, 2021:_
-
-- [ ] [Software Engineering](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=310)
-- [ ] [Internet Computing](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=317)
-- [ ] [Functional & Logic Programming](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=312)
-
-To be continued!
+_To be continued!_
