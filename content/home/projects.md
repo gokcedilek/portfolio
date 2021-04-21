@@ -34,7 +34,7 @@ subtitle = ""
     tag = "personal"
 
   [[content.filter_button]]
-    name = "Internships / Research"
+    name = "Internships"
     tag = "work"
 
   [[content.filter_button]]

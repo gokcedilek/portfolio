@@ -1,6 +1,6 @@
 ---
 title: Bioinformatics Technology Lab
-summary: 1st internship
+summary: Computational biology, performance optimization
 tags:
   - work
 date: "2016-04-27T00:00:00Z"

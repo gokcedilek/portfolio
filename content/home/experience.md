@@ -19,22 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Assistant"
-  company = "ReSeSS Research Lab"
-  company_url = "https://www.ece.ubc.ca/~mjulia/ReSeSS.html"
-  location = "Vancouver, British Columbia"
-  date_start = "2021-02-01"
-  date_end = ""
-  description = "Learn more about my project [here](https://gokce-dilek.netlify.app/project/resess/)!"
-
-[[experience]]
   title = "Software Developer"
   company = "UBC Launch Pad"
   company_url = "https://ubclaunchpad.com/"
   location = "Vancouver, British Columbia"
   date_start = "2020-09-01"
   date_end = ""
-  description = "Learn more about our current project [here](https://gokce-dilek.netlify.app/project/launchpad/)!"
+  description = "Learn more about our team project [here](https://gokce-dilek.netlify.app/project/launchpad/)!"
 
 [[experience]]
   title = "Software Engineer Intern"
@@ -52,7 +43,7 @@ date_format = "Jan 2006"
   location = "Vancouver, British Columbia"
   date_start = "2020-01-01"
   date_end = "2020-04-01"
-  description = "Creative, challenging, and fun - [CPSC 221](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221)!"
+  description = "Creative and fun - [CPSC 221](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221)!"
 
 [[experience]]
   title = "Software Developer Intern"

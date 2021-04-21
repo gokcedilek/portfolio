@@ -1,8 +1,8 @@
 ---
-title: Static Analysis for Microservices
-summary: Microservices research
+title: Swagger Tools
+summary: Swagger & OpenAPI research
 tags:
-  - work
+  - personal
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -29,8 +29,9 @@ image:
 # slides: example
 ---
 
-Timeline: Feb 2021 - present
+Timeline: Feb - Mar 2021
 
-I am currently working on researching methods to create static call graphs for microservices-based applications using [OpenAPI](https://www.openapis.org/) & [Swagger](https://swagger.io/) toolset. The aim of this project is to be able to make the call graph generation procedure framework-agnostic through the use of the common OpenAPI specifications across different Java microservices frameworks.
+I worked as part of a research group for a few months, where I worked with the [Swagger](https://swagger.io/) toolset to explore ways of generating [OpenAPI](https://www.openapis.org/) clients for Java applications. Using the [Swagger Petstore](https://petstore.swagger.io/) API, I created two applications that demonstrate how to use [Swagger Codegen](https://swagger.io/tools/swagger-codegen/) to generate OpenAPI clients for the Swagger Petstore API, and how to use the generated clients to make calls to the Swagger Petstore API.
 
-I will add more updates soon!
+- [Demo for Swagger Codegen CLI](https://github.com/gokcedilek/swagger-codegen-cli-demo) demonstrates how to use an OpenAPI client generated with the Swagger Codegen CLI in Java Spring Boot
+- [Demo for Swagger Codegen Maven Plugin](https://github.com/gokcedilek/swagger-codegen-maven-demo) demonstrates how to use an OpenAPI client generated with the Swagger Codegen Maven plugin in Java Spring Boot

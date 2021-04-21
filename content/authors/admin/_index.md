@@ -75,4 +75,4 @@ email: ""
 # [resume](https://github.com/gokcedilek/Resume)
 ---
 
-Hi, I'm Gokce! I'm a 3rd year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my school & personal projects, work experience, and related volunteer experience.
+Hi, I'm Gokce! I'm a 4<sup>th</sup> year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my school & personal projects, work experience, and related volunteer experience.

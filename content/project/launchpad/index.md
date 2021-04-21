@@ -40,4 +40,4 @@ For this project, I have been working closely with Golang, the Google Calendar A
 - Implementing Google Cloud Endpoints that update a user's internal calendar based on their Google Calendar, retrieving and creating events in user's Google Calendar based on their events in the app
 - Performing code reviews
 
-**Update:** We have recently switched to a serverless Vue.js application instead of the architecture described above. Our project is [here](https://github.com/ubclaunchpad/HappyHour).
+Our project is [here](https://github.com/ubclaunchpad/HappyHour).

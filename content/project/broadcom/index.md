@@ -1,6 +1,6 @@
 ---
 title: Broadcom
-summary: 2nd internship
+summary: Firmware, embedded development
 tags:
   - work
 date: "2016-04-27T00:00:00Z"
@@ -41,7 +41,7 @@ I worked on a variety of interesting tasks during my co-op term at Broadcom. The
 
 - Linux
 
-  - Recompiling Linux kernel
+  - Recompiling the Linux kernel
     - via the [make build tool](<https://en.wikipedia.org/wiki/Make_(software)#:~:text=In%20software%20development%2C%20Make%20is,to%20derive%20the%20target%20program.>)
     - via building as a Debian package
     - cross-compiling to run on a different platform (ARM64) than it was built (x86)
@@ -67,11 +67,11 @@ I worked on a variety of interesting tasks during my co-op term at Broadcom. The
 
 - Bootloaders
 
-  - Designed and implemented a procedure to add the GRUB bootloader to Stingray SoC, integrated GRUB-related changes with the existing boot procedure
+  - Designed and implemented a methodology to add the GRUB bootloader to Stingray SoC, integrated GRUB-related changes with the existing boot procedure
     - In addition to the existing UEFI shell, added support for the [GRUB](https://en.wikipedia.org/wiki/GNU_GRUB) bootloader as a UEFI application
-    - Explored various methods for integrating GRUB with the Yocto filesystem the best way possible
-    - Implemented and added a modular pipeline to perform and maintain GRUB-related changes to an existing script which updates the Yocto filesystem/kernel images
-      - Created GRUB menu & submenu entries in an easy-to-navigate way for all ext4 filesystems installed on the eMMC, with kernel and DTB choices, mimicking the behavior of GRUB on Linux systems such as Ubuntu
+    - Explored various methods for integrating GRUB with the Yocto filesystem in the best way possible
+    - Added a modular pipeline to perform and maintain GRUB-related changes to an existing script responsible for updating the Yocto filesystem/kernel images
+      - Created GRUB menu & submenu entries in an easy-to-navigate way for all ext4 filesystems installed on the eMMC, with kernel and DTB choices, mimicking the behavior of GRUB on common Linux systems such as Ubuntu
       - Created a default GRUB entry based on which filesystem/kernel/DTB was updated in the script, to make it easy to boot without navigating the GRUB menu
       - Made use of GRUB environment variables to store boot parameters, thus created a viable alternative to using UEFI variables
       - Prepared detailed docs to inform the team about the new procedure
