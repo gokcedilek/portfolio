@@ -21,17 +21,16 @@ role: Computer Science student at the University of British Columbia
 # bio: Hi, I'm Gokce! I'm a 3rd year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my school & personal projects, work experience, resume, and related technical experience.
 
 interests:
-  - Microservices & Micro frontends
-  - Data Structures & Algorithms
-  - Machine Learning & Data Science
+  - Microservices
+  - Microfrontends
   - Software Engineering
-  - Computer Graphics
+  - Data Structures & Algorithms
 
 education:
   courses:
     - course: BSc in Computer Science
       institution: University of British Columbia
-      year: May 2019 - Dec 2022
+      year: May 2019 - May 2022
     - course: BASc in Engineering Physics (transferred to BSc in CS during second year)
       institution: University of British Columbia
       year: Sept 2017 - Apr 2019
@@ -75,4 +74,4 @@ email: ""
 # [resume](https://github.com/gokcedilek/Resume)
 ---
 
-Hi, I'm Gokce! I'm a 4<sup>th</sup> year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my school & personal projects, work experience, and related volunteer experience.
+Hi, I'm Gokce! I'm a 4<sup>th</sup> year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my projects, work experience, and volunteer experience.

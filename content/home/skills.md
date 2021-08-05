@@ -16,16 +16,29 @@ subtitle = ""
 
 
 [[feature]]
-  name = "Languages & Frameworks"
-  description = "TypeScript, JavaScript, Python, Java, Go, C++/C, Haskell, Prolog, R, SQL, Bash, Node.js, React.js, Next.js, Spring Boot"
+  name = "Languages"
+  description = "TypeScript, JavaScript, Python, Java, Go, C++/C, Haskell, Prolog, R, Bash, HTML, CSS/SCSS"
 
 [[feature]]
-  name = "Tools & Technologies"
-  description = "AWS, Google Cloud, Firebase, Docker, Kubernetes, Skaffold, Kafka, Istio, Linux, Git, GitHub Actions, Swagger"
+  name = "Libraries & Frameworks"
+  description = "Node.js, React.js, Next.js, Knockout.js, Vue.js"
 
 [[feature]]
-  name = "Other"
-  description = "Agile development, project management, teamwork, collaboration"
+  name = "Technologies"
+  description = "AWS, Google Cloud, Firebase, Docker, Kubernetes, Skaffold, Terraform, Kafka, Istio, Swagger"
+
+[[feature]]
+  name = "CI/CD"
+  description = "GitHub Actions, GoCD"
+
+[[feature]]
+  name = "Testing"
+  <!-- description = "Jest, Mocha, Karma, Sinon, Specflow, Selenium, Cypress, Puppeteer" -->
+  description = "Jest, Mocha, Karma, Sinon, Specflow, Selenium, Cypress"
+
+# [[feature]]
+#  name = "Other"
+#  description = "Agile development, project management, teamwork, collaboration"
 
 # Uncomment to use emoji icons.
 # [[feature]]

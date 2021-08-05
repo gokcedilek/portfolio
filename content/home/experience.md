@@ -19,7 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Software Developer"
+  title = "Software Developer Intern"
+  company = "Alida"
+  company_url = "https://www.alida.com/"
+  location = "Vancouver, British Columbia"
+  date_start = "2021-05-01"
+  date_end = ""
+  description = "Learn more about my work at Alida [here](https://gokce-dilek.netlify.app/project/alida/)!"
+
+[[experience]]
+  title = "Team Lead / Software Developer"
   company = "UBC Launch Pad"
   company_url = "https://ubclaunchpad.com/"
   location = "Vancouver, British Columbia"
@@ -29,7 +38,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineer Intern"
-  company = "Broadcom Inc."
+  company = "Broadcom"
   company_url = "https://www.broadcom.com/"
   location = "Richmond, British Columbia"
   date_start = "2020-05-01"
