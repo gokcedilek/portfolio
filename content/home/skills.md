@@ -33,7 +33,6 @@ subtitle = ""
 
 [[feature]]
   name = "Testing"
-  <!-- description = "Jest, Mocha, Karma, Sinon, Specflow, Selenium, Cypress, Puppeteer" -->
   description = "Jest, Mocha, Karma, Sinon, Specflow, Selenium, Cypress"
 
 # [[feature]]
