@@ -1,6 +1,6 @@
 ---
-title: When3meet
-summary: UBC Launch Pad group project
+title: UBC Launch Pad
+summary: Software engineering club projects
 tags:
   - personal
 date: "2016-04-27T00:00:00Z"
@@ -29,11 +29,17 @@ image:
 # slides: example
 ---
 
-Timeline: Oct 2020 - present
+Timeline: Sep 2021 - present
 
-Being a part of UBC Launch Pad allowed me to collaborate with 10 students with different expertise (backend, frontend, UI & UX) on an 8-month long project. Currently, we are building a group scheduling web application that aims to improve the UI & UX of [When2meet](https://www.when2meet.com/). Our MVP features include synchronizing user's availability and events in the app with their personal calendars.
+[UBC Launch Pad](https://ubclaunchpad.com/) is UBC's student-led software engineering club devoted to building software projects in a collaborative and professional environment. After being a team member at Launch Pad for a year, this year I returned to Launch Pad as a team lead, working with a group of undergraduate students to build a cross-platform task scheduling application.
 
-For this project, I have been working closely with Golang, the Google Calendar API, Google Cloud Endpoints, and Firebase. My main task has been centered around integrating the app with Google Calendar. Here's a breakdown of the things I worked on:
+We are currently in the process of shaping our term project, which can be found [here](https://github.com/ubclaunchpad/task-scheduling).
+
+Timeline: Oct 2020 - Apr 2021
+
+Being a part of UBC Launch Pad allowed me to collaborate with a team of students with different expertise (backend, frontend, UI & UX) on an 8-month long project. We built a group scheduling web application that aims to improve the UI & UX of [When2meet](https://www.when2meet.com/) and allows synchronizing user's availability and events in the app with their personal calendars.
+
+For this project, I worked closely with Golang, the Google Calendar API, Google Cloud Endpoints, and Firebase. My main task was centered around integrating the app with Google Calendar. Here's a breakdown of the things I worked on:
 
 - Designing internal data structures to represent users, events, and calendars in our app
 - Testing data read / write layers for Cloud Firestore

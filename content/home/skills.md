@@ -17,15 +17,15 @@ subtitle = ""
 
 [[feature]]
   name = "Languages"
-  description = "TypeScript, JavaScript, Python, Java, Go, C++/C, Haskell, Prolog, R, Bash, HTML, CSS/SCSS"
+  description = "TypeScript, JavaScript, HTML, CSS/SCSS, Python, Java, Go, C++/C, Haskell, Prolog, R, Bash"
 
 [[feature]]
   name = "Libraries & Frameworks"
-  description = "Node.js, React.js, Next.js, Knockout.js, Vue.js"
+  description = "Node.js, React.js, Next.js, Knockout.js, Vue.js, Express.js, Spring Boot"
 
 [[feature]]
   name = "Technologies"
-  description = "AWS, Google Cloud, Firebase, Docker, Kubernetes, Skaffold, Terraform, Kafka, Istio, Swagger"
+  description = "AWS, Terraform, Serverless, Google Cloud, Firebase, Docker, Kubernetes, Kafka, Istio, Swagger"
 
 [[feature]]
   name = "CI/CD"
@@ -33,7 +33,7 @@ subtitle = ""
 
 [[feature]]
   name = "Testing"
-  description = "Jest, Mocha, Karma, Sinon, Specflow, Selenium, Cypress"
+  description = "Jest, Mocha, React Testing Library, Karma, Sinon, Specflow, Selenium, Cypress, Puppeteer"
 
 # [[feature]]
 #  name = "Other"
