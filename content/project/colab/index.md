@@ -11,11 +11,11 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
+links:
+  - icon: github
+    icon_pack: fab
+    name: ""
+    url: https://github.com/labcolab/colab
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -29,7 +29,4 @@ image:
 # slides: example
 ---
 
-Timeline: Dec 2020 - present
-
-We will be continuing with this project in May, 2021, and I will post updates then!
-For now, our exciting project can be found [here](https://github.com/labcolab/colab).
+Timeline: Dec 2020

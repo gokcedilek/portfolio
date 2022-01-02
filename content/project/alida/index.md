@@ -31,7 +31,7 @@ image:
 
 Timeline: May - Dec 2021
 
-Being a part of the Surveys team at Alida has allowed me to grow myself as a software developer and a team player in various ways. The tasks I have contributed to so far can be summarized as follows:
+Being a part of the Surveys team at Alida has allowed me to grow myself as a software developer and a team player in various ways. The projects I have been involved in during my internship can be summarized as follows:
 
 - Carry Forward Answers
 
@@ -43,19 +43,27 @@ Being a part of the Surveys team at Alida has allowed me to grow myself as a sof
 
 - Survey Responding Modernization
 
-  - Transitioning Alida's Survey Responding frontend codebase from an older toolset to a modern tech stack
-  - Developing various accessible UI components for web and mobile
-  - Implementing unit tests achieving 80-100% coverage
+  - Transitioning Alida's Survey Responding frontend codebase from an older toolset to a modern tech stack including React, TypeScript, React Query, Material UI, Storybook
+  - Developing various accessible and responsive UI components for web and mobile
   - Utilizing a microfrontends architecture using Webpack Module Federation, sharing UI components across repositories
+  - Implementing unit tests achieving 90-100% coverage using React Testing Library
+  - Working with Puppeteer & BrowserStack to add UI automation tests
+  - Working with Github Actions & GoCD pipelines to build & deploy the app
   - Creating a Transifex translations pipeline for localization
-  - _Technologies: React, TypeScript, Material UI, Storybook, Jest, React Testing Library_
+  - Setting up Storybook for testing components and configuring it to work with Webpack Module Federation
+  - Investigating and debugging the existing backend in .NET to connect the new frontend to the existing backend properly
+  - _Technologies: React, TypeScript, Material UI, Storybook, Jest, React Testing Library, Puppeteer, BrowserStack, C# (.NET)_
 
 - Preview Surveys with Profile Variables
 
-  - _In Progress_
+  - Adding customizable and reusable React components to Alida's UI library
+  - Actively working on 2 separate repositories that share code via Webpack Module Federation, synchronizing changes and deployments between the repositories
+  - Implementing React hooks that use React Query to make API calls to the backend and manage data on the frontend
+  - _Technologies: React, TypeScript, Material UI, Storybook, Jest, React Testing Library_
 
 - Other
   - Improving the usability of a drag & drop interface by designing and implementing complex and reusable style rules
   - Building a micro-frontend application that uses Webpack Module Federation, and deploying to AWS S3 & CloudFront
   - Troubleshooting build and deployment pipelines
   - Debugging customer issues using Kibana logs
+  - Taking part in weekly build pick & prod push tasks
