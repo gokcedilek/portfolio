@@ -11,11 +11,15 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
+links:
+  - icon: github
+    icon_pack: fab
+    name: ""
+    url: https://github.com/gokcedilek/StackNotes
+  - icon: github
+    icon_pack: fab
+    name: ""
+    url: https://github.com/gokcedilek/ReadLater
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -31,7 +35,7 @@ image:
 
 Timeline: Jul 2020
 
-Here are some quick & easy (not so quick & easy while working on it!:) Google Chrome extensions I worked on - I wanted to explore developing extensions due to several reasons:
+Here are some quick & easy Chrome extensions I worked on - I wanted to explore developing extensions due to several reasons:
 
 - My general interest towards web development
 - My curiosity about how easy/hard it would be to get started with developing extensions
@@ -47,7 +51,7 @@ Challenges faced/Things learned:
 - using the asynchronous [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
 
 **Project #2:** _Read Later_ **(Incomplete!)**
-This extension (is expected to implement:) implements a special bookmarks folder in Chrome to which the user can add webpages to review later, and the extension recommends one page to read from this folder everytime the user opens the Google home page.
+This extension implements a special bookmarks folder in Chrome to which the user can add webpages to review later, and the extension recommends one page to read from this folder everytime the user opens the Google home page.
 
 What has been implemented so far:
 
