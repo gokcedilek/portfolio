@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.alida.com/"
   location = "Vancouver, British Columbia"
   date_start = "2021-05-01"
-  date_end = ""
+  date_end = "2021-12-01"
   description = "Learn more about my work at Alida [here](https://gokce-dilek.netlify.app/project/alida/)!"
 
 [[experience]]
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "https://ubclaunchpad.com/"
   location = "Vancouver, British Columbia"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-12-01"
   description = "Learn more about our team project [here](https://gokce-dilek.netlify.app/project/launchpad/)!"
 
 [[experience]]

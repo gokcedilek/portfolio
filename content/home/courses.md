@@ -27,7 +27,7 @@ subtitle:
 - [x] [Applied Industry Practices](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=455&sessyr=2021&sesscd=S&dept=CPSC&pname=subjarea)
 - [x] [Software Engineering Project](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=319&sessyr=2021&sesscd=W&dept=CPSC&pname=subjarea)
 
-_To be completed by May, 2022_
+_In Progress_
 
 - [ ] [Machine Learning and Data Mining](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=340)
 - [ ] [Distributed Systems](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=416&section=201)

@@ -11,6 +11,15 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+links:
+  - icon: github
+    icon_pack: fab
+    name: ""
+    url: https://github.com/gokcedilek/DictionaryClient
+  - icon: github
+    icon_pack: fab
+    name: ""
+    url: https://github.com/gokcedilek/DNSResolver
 # links:
 #   - icon: twitter
 #     icon_pack: fab
