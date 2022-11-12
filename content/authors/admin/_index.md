@@ -80,7 +80,7 @@ email: ""
 
 Hi, I'm Gokce - Welcome to my computer science portfolio!
 
-💻 I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company, where we aim to deliver high quality features for our customers in a fast-paced environment, alongside creating a better company culture every day.
+💻 I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company, where we aim to deliver high quality features to our customers in a fast-paced environment, alongside creating a better company culture every day.
 
 🎓 I completed my undergraduate degree in Computer Science at the [University of British Columbia](https://www.ubc.ca/) in June 2022.
 
