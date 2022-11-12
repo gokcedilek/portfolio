@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Science student at the University of British Columbia
+role: Software Engineer
 
 # Organizations/Affiliations
 # organizations:
@@ -58,6 +58,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/gokce-dilek/
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@gokcedilek99
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,4 +77,9 @@ email: ""
 # [resume](https://github.com/gokcedilek/Resume)
 ---
 
-Hi, I'm Gokce! I'm a 5<sup>th</sup> year Computer Science student at the [University of British Columbia](https://www.ubc.ca/). This portfolio consists of my projects, work experience, and volunteer experience.
+Hi, I'm Gokce - Welcome to my computer science portfolio!
+🖥️ I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company, where we aim to deliver high quality features for our customers in a fast-paced environment, alongside creating a better company culture every day.
+🎓 I completed my undergraduate degree in Computer Science at the [University of British Columbia](https://www.ubc.ca/) in June 2022.
+🍁 I am based in Vancouver, BC, where I get to be inspired by the beauty of nature on a daily basis.
+🚀 I enjoy working on side projects, and have hands-on experience in full-stack web development, cloud computing, as well as distributed systems. I am particularly passionate about applying my computer science skills to the education technology space.
+🍵 If you would like to have a chat about anything on my portfolio, please feel free to reach out to me!
