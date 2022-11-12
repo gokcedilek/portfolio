@@ -1,10 +1,10 @@
 ---
-title: BAGEL - Best Algorithms for Graphs, Easy Learning
-subtitle: Distributed Graph Processing Engine
+title: BAGEL - A Distributed Graph Processing Engine
+subtitle: Article published on Microsoft's Educator Developer Blog
 
 # Summary for listings and search engines
 
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Distributed Graph Processing Engine
 
 # Link this post with a project
 
