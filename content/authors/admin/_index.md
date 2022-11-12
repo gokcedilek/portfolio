@@ -23,7 +23,8 @@ role: Software Engineer
 interests:
   - Microservices
   - Microfrontends
-  - Software Engineering
+  - Cloud Systems
+  - Distributed Systems
   - Data Structures & Algorithms
 
 education:
@@ -78,8 +79,13 @@ email: ""
 ---
 
 Hi, I'm Gokce - Welcome to my computer science portfolio!
-🖥️ I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company, where we aim to deliver high quality features for our customers in a fast-paced environment, alongside creating a better company culture every day.
+
+💻 I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company, where we aim to deliver high quality features for our customers in a fast-paced environment, alongside creating a better company culture every day.
+
 🎓 I completed my undergraduate degree in Computer Science at the [University of British Columbia](https://www.ubc.ca/) in June 2022.
+
 🍁 I am based in Vancouver, BC, where I get to be inspired by the beauty of nature on a daily basis.
+
 🚀 I enjoy working on side projects, and have hands-on experience in full-stack web development, cloud computing, as well as distributed systems. I am particularly passionate about applying my computer science skills to the education technology space.
+
 🍵 If you would like to have a chat about anything on my portfolio, please feel free to reach out to me!
