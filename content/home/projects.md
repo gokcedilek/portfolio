@@ -26,24 +26,33 @@ subtitle = ""
   #  tag = "*"
 
   [[content.filter_button]]
-    name = "Class"
-    tag = "class"
+    name = "Algorithms"
+    tag = "algorithms"
 
   [[content.filter_button]]
-    name = "Personal"
-    tag = "personal"
+    name = "Machine Learning"
+    tag = "ml"
 
   [[content.filter_button]]
-    name = "Internships"
-    tag = "work"
+    name = "Programming Languages"
+    tag = "pl"
 
   [[content.filter_button]]
     name = "Research"
     tag = "research"
 
   [[content.filter_button]]
-    name = "Hackathons / Competitions"
-    tag = "free"
+    name = "Systems"
+    tag = "systems"] 
+
+  [[content.filter_button]]
+    name = "Web Development"
+    tag = "webdev"
+
+  [[content.filter_button]]
+    name = "Work"
+    tag = "work"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -57,7 +66,7 @@ subtitle = ""
   view = 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
