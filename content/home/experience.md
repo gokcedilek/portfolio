@@ -37,48 +37,48 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Software Developer Intern"
+  title = "[Software Developer Intern](https://gokce-dilek.netlify.app/project/alida/)"
   company = "Alida"
   company_url = "https://www.alida.com/"
   location = "Vancouver, British Columbia"
   date_start = "2021-05-01"
   date_end = "2021-12-01"
-  description = "Learn more about my work at Alida [here](https://gokce-dilek.netlify.app/project/alida/)!"
+  description = ""
 
 [[experience]]
-  title = "Team Lead / Software Developer"
+  title = "[Team Lead / Software Developer](https://gokce-dilek.netlify.app/project/launchpad/)"
   company = "UBC Launch Pad"
   company_url = "https://ubclaunchpad.com/"
   location = "Vancouver, British Columbia"
   date_start = "2020-09-01"
   date_end = "2022-04-01"
-  description = "Learn more about our team project [here](https://gokce-dilek.netlify.app/project/launchpad/)!"
+  description = ""
 
 [[experience]]
-  title = "Software Engineer Intern"
+  title = "[Software Engineer Intern](https://gokce-dilek.netlify.app/project/broadcom/)"
   company = "Broadcom"
   company_url = "https://www.broadcom.com/"
   location = "Richmond, British Columbia"
   date_start = "2020-05-01"
   date_end = "2020-12-01"
-  description = "Learn more about my work at Broadcom [here](https://gokce-dilek.netlify.app/project/broadcom/)!"
+  description = ""
 
 [[experience]]
-  title = "Data Structures & Algorithms Teaching Assistant"
+  title = "[Data Structures & Algorithms Teaching Assistant](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221)"
   company = "University of British Columbia"
   company_url = "https://www.ubc.ca/"
   location = "Vancouver, British Columbia"
   date_start = "2020-01-01"
   date_end = "2020-04-01"
-  description = "Creative and fun - [CPSC 221](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221)!"
+  description = ""
 
 [[experience]]
-  title = "Software Developer Intern"
+  title = "[Software Developer Intern](https://gokce-dilek.netlify.app/project/btl/)"
   company = "Bioinformatics Technology Lab"
   company_url = "http://www.birollab.ca/"
   location = "Vancouver, British Columbia"
   date_start = "2019-01-01"
   date_end = "2019-04-01"
-  description = "Learn more about my work at BTL [here](https://gokce-dilek.netlify.app/project/btl/)!"
+  description = ""
 
 +++
