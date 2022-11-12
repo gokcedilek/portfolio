@@ -2,12 +2,12 @@
 # A Recent Blog Posts section created with the Pages widget.
 # This section displays recent blog posts from `content/post/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "collection"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Posts"
 subtitle = ""
 
 [content]
@@ -25,6 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
+    folders = ["post"]
     tag = ""
     category = ""
     publication_type = ""
@@ -38,6 +39,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
+  columns = "1"
   
 [design.background]
   # Apply a background color, gradient, or image.
