@@ -43,7 +43,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Systems"
-    tag = "systems"] 
+    tag = "systems"
 
   [[content.filter_button]]
     name = "Web Development"
