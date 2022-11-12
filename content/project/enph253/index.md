@@ -2,7 +2,7 @@
 title: Programming an Autonomous Robot!
 summary: Summer robot competition!
 tags:
-  - free
+  - systems
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

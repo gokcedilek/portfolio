@@ -25,10 +25,14 @@ subtitle = ""
 
 [[feature]]
   name = "Technologies"
-  description = "AWS, Terraform, Serverless, Google Cloud, Firebase, Docker, Kubernetes, Kafka, Istio, Swagger"
+  description = "AWS, Terraform, Serverless, Google Cloud, Firebase, Docker, Kubernetes, Kafka, Istio, Swagger, Kibana, Dynatrace"
 
 [[feature]]
-  name = "Testing"
+  name = "Databases"
+  description = "MongoDB, MySQL, PostgreSQL, Redis, DynamoDB, SQL Server, Oracle"  
+
+[[feature]]
+  name = "Software Testing"
   description = "Jest, Mocha, React Testing Library, Karma, Sinon, Specflow, Selenium, Cypress, Puppeteer, BrowserStack"
 
 [[feature]]

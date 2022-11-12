@@ -2,7 +2,7 @@
 title: Voronoi Art
 summary: Another algorithmic art project, this time in Haskell!!
 tags:
-  - class
+  - pl
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
