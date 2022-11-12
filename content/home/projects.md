@@ -44,6 +44,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Systems"
     tag = "systems"
+  
+  [[content.filter_button]]
+    name = "Visualization"
+    tag = "vis"
 
   [[content.filter_button]]
     name = "Web Development"
