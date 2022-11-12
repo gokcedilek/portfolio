@@ -1,5 +1,4 @@
 ---
-
 title: BAGEL - Best Algorithms for Graphs, Easy Learning
 subtitle: Distributed Graph Processing Engine
 
@@ -60,3 +59,4 @@ featured: false
 # - 教程
 
 external_link: "https://techcommunity.microsoft.com/t5/educator-developer-blog/bag-el-best-algorithms-for-graphs-easy-learning/ba-p/3431362"
+---
