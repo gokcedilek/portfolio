@@ -30,3 +30,5 @@ subtitle:
 - [x] [Distributed Systems](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=416&section=201)
 - [x] [Introduction to Artificial Intelligence](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=322)
 - [x] [Information Visualization](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=201)
+- [x] [Advanced Software Engineering](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=410)
+- [x] [Computer Science Directed Studies](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=448B)
