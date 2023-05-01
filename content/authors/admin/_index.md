@@ -25,6 +25,7 @@ interests:
   - Microfrontends
   - Cloud Systems
   - Distributed Systems
+  - System Design
   - Data Structures & Algorithms
 
 education:
@@ -35,9 +36,9 @@ education:
     # - course: BASc in Engineering Physics (transferred to BSc in CS during second year)
     #   institution: University of British Columbia
     #   year: Sept 2017 - Apr 2019
-    - course: International Baccalaureate High School Diploma Program (IBDP)
-      institution: TED Ankara College Foundation
-      year: 2013 - 2017
+    # - course: International Baccalaureate High School Diploma Program (IBDP)
+    #   institution: TED Ankara College Foundation
+    #   year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +62,7 @@ social:
     link: https://www.linkedin.com/in/gokce-dilek/
   - icon: medium
     icon_pack: fab
-    link: https://medium.com/@gokcedilek99
+    link: https://medium.com/@gokcedilek
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -80,12 +81,14 @@ email: ""
 
 Hi, I'm Gokce - Welcome to my computer science portfolio!
 
-💻 I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company, where we aim to deliver high-quality features to our customers in a fast-paced environment, alongside creating a better company culture every day.
+💻 I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company. I'm particularly interested in backend web development, cloud computing, microservices, distributed systems and system design.
 
 🎓 I completed my undergraduate degree in Computer Science at the [University of British Columbia](https://www.ubc.ca/) in June 2022.
 
-🍁 I am based in Vancouver, BC, where I get to be inspired by the beauty of nature on a daily basis.
+🍁 I am based in Vancouver, BC, where I get to be inspired by the beauty of nature every day.
 
-🚀 I enjoy working on side projects, and have hands-on experience in full-stack web development, cloud computing, as well as distributed systems. I am particularly passionate about applying my computer science skills to the education technology space.
+🚀 My most recent project [BAGEL](https://github.com/gokcedilek/BAGEL) is a distributed graph processing engine written in Go.
+
+🙌 I would be happy to collaborate on projects that have a positive educational, social, or environmental impact!
 
 🍵 If you would like to have a chat about anything on my portfolio, please feel free to reach out to me!

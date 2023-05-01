@@ -17,7 +17,7 @@ subtitle = ""
 
 [[feature]]
   name = "Languages"
-  description = "TypeScript, JavaScript, HTML, CSS/SCSS, Python, Go, Java, C++/C, C#, Haskell, Prolog, R, Bash"
+  description = "JavaScript, TypeScript, HTML, CSS/SCSS,  C#, Go, Python, Java, C++/C, Haskell, Prolog, R, Bash"
 
 [[feature]]
   name = "Libraries & Frameworks"
@@ -29,11 +29,11 @@ subtitle = ""
 
 [[feature]]
   name = "Databases"
-  description = "MongoDB, MySQL, PostgreSQL, Redis, DynamoDB, SQL Server, Oracle"  
+  description = "MongoDB, MySQL, PostgreSQL, Redis, DynamoDB, SQL Server, Oracle, SQLite"  
 
 [[feature]]
   name = "Software Testing"
-  description = "Jest, Mocha, React Testing Library, Karma, Sinon, Specflow, Selenium, Cypress, Puppeteer, BrowserStack"
+  description = "Jest, Mocha, React Testing Library, Karma, Sinon, Supertest, Artillery, Specflow, Selenium, Cypress, Puppeteer, BrowserStack"
 
 [[feature]]
   name = "CI/CD"
