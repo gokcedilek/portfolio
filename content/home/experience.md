@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "[Open Source Contributor](https://gokce-dilek.netlify.app/project/photoprism/)"
+  company = "PhotoPrism"
+  company_url = "https://github.com/photoprism/photoprism"
+  date_start = "2023-07-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "[Software Engineer](https://gokce-dilek.netlify.app/project/alida/)"
   company = "Alida"
   company_url = "https://www.alida.com/"
