@@ -17,7 +17,7 @@ subtitle = ""
 
 [[feature]]
   name = "Languages"
-  description = "JavaScript, TypeScript, HTML, CSS/SCSS,  C#, Go, Python, Java, C++/C, Haskell, Prolog, R, Bash"
+  description = "JavaScript, TypeScript, Go, C#, Python, Java, C++/C, HTML, CSS/SCSS, Haskell, Prolog, R, Bash"
 
 [[feature]]
   name = "Libraries & Frameworks"

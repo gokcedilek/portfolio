@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gokce Dilek
+title: Gökçe Dilek
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer
+role: Software Engineer & Open Source Contributor
 
 # Organizations/Affiliations
 # organizations:
@@ -22,7 +22,6 @@ role: Software Engineer
 
 interests:
   - Microservices
-  - Microfrontends
   - Cloud Systems
   - Distributed Systems
   - System Design
@@ -79,9 +78,11 @@ email: ""
 # [resume](https://github.com/gokcedilek/Resume)
 ---
 
-Hi, I'm Gokce - Welcome to my computer science portfolio!
+Hi, I'm Gökçe - Welcome to my software engineering portfolio!
 
 💻 I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company. I'm particularly interested in backend web development, cloud computing, microservices, distributed systems and system design.
+
+👩🏻‍💻 I'm an open source contributor at the [PhotoPrism](https://github.com/photoprism/photoprism) project.
 
 🎓 I completed my undergraduate degree in Computer Science at the [University of British Columbia](https://www.ubc.ca/) in June 2022.
 
