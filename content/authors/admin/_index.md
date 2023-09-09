@@ -82,7 +82,7 @@ Hi, I'm Gökçe - Welcome to my software engineering portfolio!
 
 💻 I work as a software engineer at [Alida](https://www.alida.com/), a Canadian SaaS company. I'm particularly interested in backend web development, cloud computing, microservices, distributed systems and system design.
 
-👩🏻‍💻 I'm an open source contributor at the [PhotoPrism](https://github.com/photoprism/photoprism) project.
+👩🏻‍💻 I'm an open source contributor to the [PhotoPrism](https://github.com/photoprism/photoprism) project.
 
 🎓 I completed my undergraduate degree in Computer Science at the [University of British Columbia](https://www.ubc.ca/) in June 2022.
 

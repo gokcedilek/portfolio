@@ -1,6 +1,6 @@
 ---
 title: PhotoPrism
-summary: Open Source Contributor at the PhotoPrism project
+summary: Open Source Contributor to the PhotoPrism project
 tags:
   - webdev
 date: "2016-04-27T00:00:00Z"
@@ -36,9 +36,9 @@ links:
 
 Timeline: July 2023 - present
 
-I'm an open source contributor at the PhotoPrism project.
+I'm an open source contributor to the [PhotoPrism](https://github.com/photoprism/photoprism) project:
 
-- My code contributions are [here](https://github.com/photoprism/photoprism/pulls?q=is%3Apr+author%3Agokcedilek+)
-- My docs contributions are [here](https://github.com/photoprism/photoprism-docs/pulls?q=is%3Apr+author%3Agokcedilek)
+- My code contributions can be found [here](https://github.com/photoprism/photoprism/pulls?q=is%3Apr+author%3Agokcedilek+)
+- My docs contributions can be found [here](https://github.com/photoprism/photoprism-docs/pulls?q=is%3Apr+author%3Agokcedilek)
 
 The main technologies I work with include Go, Vue.js, Docker, Linux.
