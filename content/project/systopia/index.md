@@ -34,9 +34,9 @@ links:
 # slides: example
 ---
 
-Timeline: May - July 2022
+Timeline: May - June 2022
 
-I worked with the [UBC Systopia Lab](https://systopia.cs.ubc.ca/), UBC's Computer Systems research lab, during May - July 2022, where I had the opportunity to start a research project from scratch. My research subject was broadly about exploring the data privacy compliance of a serverless application deployed on a cloud environment. Specifically, I focused on how well the design and components of serverless application deployed on Google Cloud Platform protect the privacy of the data. As part of this research project, I worked on the following:
+I worked with the [UBC Systopia Lab](https://systopia.cs.ubc.ca/), UBC's Computer Systems research lab, during May - June 2022, where I had the opportunity to start a research project from scratch. My research subject was broadly about exploring the data privacy compliance of a serverless application deployed on a cloud environment. Specifically, I focused on how well the design and components of serverless application deployed on Google Cloud Platform protect the privacy of the data. As part of this research project, I worked on the following:
 
 - Choosing a [benchmark application](https://github.com/GoogleCloudPlatform/serverless-store-demo) that is sufficiently complex and contains personal data
 - Setting up the application on Google Cloud Platform
