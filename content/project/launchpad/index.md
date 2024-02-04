@@ -33,11 +33,11 @@ links:
 # slides: example
 ---
 
-Timeline: Sep 2021 - present
+Timeline: Sep 2021 - Apr 2022
 
-[UBC Launch Pad](https://ubclaunchpad.com/) is UBC's student-led software engineering club devoted to building software projects in a collaborative and professional environment. After being a team member at Launch Pad for a year, this year I returned to Launch Pad as a team lead, working with a group of undergraduate students to build a cross-platform task scheduling application.
+[UBC Launch Pad](https://ubclaunchpad.com/) is UBC's student-led software engineering club devoted to building software projects in a collaborative and professional environment. After being a team member at Launch Pad for a year, I returned to Launch Pad as a team lead, working with a group of undergraduate students over the course of 8 months to build a cross-platform task scheduling application.
 
-We are currently in the process of shaping our term project, which can be found [here](https://github.com/ubclaunchpad/task-scheduling).
+Our project can be found [here](https://github.com/ubclaunchpad/task-scheduling).
 
 Timeline: Oct 2020 - Apr 2021
 
@@ -50,4 +50,4 @@ For this project, I worked closely with Golang, the Google Calendar API, Google 
 - Implementing Google Cloud Endpoints that update a user's internal calendar based on their Google Calendar, retrieving and creating events in user's Google Calendar based on their events in the app
 - Performing code reviews
 
-Our project is [here](https://github.com/ubclaunchpad/HappyHour).
+Our project can be found [here](https://github.com/ubclaunchpad/HappyHour).
